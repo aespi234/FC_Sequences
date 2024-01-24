@@ -198,5 +198,4 @@ if __name__ == "__main__":
     import os
     #Intm24FC_def.plot().show()
 
-##    Intm24FC_def.create_fcjs('AMA_Intermediate2024', f'{os.environ['HOME']}/Desktop/templates/')
-    Intm24FC_def.create_fcjs('AMA_Intermediate2024','C:/Users/coach/OneDrive/Desktop/Templates/test4/templates')    
+    Intm24FC_def.create_fcjs('AMA_Intermediate2024', f'{os.environ['HOME']}/Desktop/templates/')

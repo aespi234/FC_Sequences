@@ -239,6 +239,6 @@ if __name__ == "__main__":
 ##    Adv24FC_def.plot().show()
 
 
-##  Adv24FC_def.create_fcjs('AMA_Advanced2024', f'{os.environ['HOME']}/Desktop/templates/')
-    Adv24FC_def.create_fcjs('AMA_Advanced2024','C:/Users/coach/OneDrive/Desktop/Templates/test4/templates')    
+    Adv24FC_def.create_fcjs('AMA_Advanced2024', f'{os.environ['HOME']}/Desktop/templates/')
+
 
