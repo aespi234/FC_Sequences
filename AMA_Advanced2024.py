@@ -1,4 +1,6 @@
-"""This file defines an Advanced24 sequence using the ManDef Classes and helper functions."""
+"""This file defines a AMA Advanced 2024 sequence using PyFligthCoach ManDef Classes and helper functions.
+   Author Angel Espinosa with help from Thomas David.
+"""
 
 from flightanalysis.definition import *
 from flightanalysis.elements import *
